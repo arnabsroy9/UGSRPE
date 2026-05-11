@@ -4,6 +4,8 @@ This repository contains the official implementation of **UGSRPE**, a training-f
 
 Given a single annotated support image, UGSRPE automatically segments polyps in unseen query images without any training or fine-tuning.
 
+For a step-by-step explanation of how the framework works, see [FRAMEWORK_WALKTHROUGH.md](./FRAMEWORK_WALKTHROUGH.md).
+
 ## Results
 
 UGSRPE outperforms the previous state-of-the-art one-shot method OP-SAM (ICCV 2025) on every IoU comparison across four public benchmarks, with fixed hyperparameters and no dataset-specific tuning.
