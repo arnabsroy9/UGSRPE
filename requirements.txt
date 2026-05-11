@@ -1,0 +1,19 @@
+# Core ML stack
+torch>=2.0.0
+torchvision>=0.15.0
+
+# SAM2 — install from the official Meta repository
+# pip install git+https://github.com/facebookresearch/sam2.git
+
+# DINOv2 is loaded via torch.hub at runtime — no separate package needed
+
+# Image processing
+opencv-python>=4.8.0
+Pillow>=9.5.0
+scipy>=1.10.0
+numpy>=1.24.0
+
+# Utilities
+tqdm>=4.65.0
+matplotlib>=3.7.0
+pandas>=2.0.0
