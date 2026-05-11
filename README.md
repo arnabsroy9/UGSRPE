@@ -23,7 +23,7 @@ PolypGen Centres 4–6 and sequence frames (1,710 additional images) are also ev
 
 | Notebook | Dataset | Description |
 |---|---|---|
-| `UGSRPE_Final_Kvasir-Seg_.ipynb` | Kvasir-SEG | 999 query images |
+| `ugsrpe-kvasir-seg.ipynb` | Kvasir-SEG | 999 query images |
 | `ugsrpe-clinicdb.ipynb` | CVC-ClinicDB | 611 query images (PNG version) |
 | `cvc-colondb.ipynb` | CVC-ColonDB | 379 query images |
 | `ugsrpe_polypgen.ipynb` | PolypGen | 3,120 query images across six centres + sequence frames |
